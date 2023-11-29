@@ -3,13 +3,14 @@ fork repo dulu ygy
 git init
 git clone link repo
 code .
-kerjakan bagianmu 
-git branch -M serah nama lo
-git add file yang kamu ubah
-if file tidak ada cd dulu ke folder repo nya
+(kerjakan bagianmu)
+git branch namabranch
+git switch namabranch
+git add . (file yang kamu ubah)
+if file tidak ada cd dulu ke foldernya
 git commit -m "aku sudah kerja"
 git remote add origin link repo
-git push
+git push -u origin namabranch
 
 warning!!!! 
 pastikan akun github nya sudah kamu ganti
