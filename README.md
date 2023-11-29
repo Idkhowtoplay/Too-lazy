@@ -3,7 +3,8 @@ fork repo dulu ygy
 git init
 git clone link repo
 code .
-kerjakan bagianmu
+kerjakan bagianmu 
+git branch -M serah nama lo
 git add file yang kamu ubah
 if file tidak ada cd dulu ke folder repo nya
 git commit -m "aku sudah kerja"
