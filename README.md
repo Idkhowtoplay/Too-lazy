@@ -1,4 +1,4 @@
-##how to push##
+## how to push ##
 1.fork repo dulu ygy
 2.git init
 3.git clone link repo
