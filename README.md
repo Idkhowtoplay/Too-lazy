@@ -1,4 +1,5 @@
 ## how to push ##
+```
 1.fork repo dulu ygy
 2.git init
 3.git clone link repo
@@ -12,7 +13,7 @@
 11.git commit -m "aku sudah kerja"
 12.git remote add origin link repo
 13.git push -u origin nama branch
-
+```
 warning!!!! 
 pastikan akun github nya sudah kamu ganti
 jika nyangkut sama akun lain ke control panel terus search credential manager hapus akun github orang lain
